@@ -16,18 +16,29 @@
         - Added comment and committed using commit to main button.
 5. **Deletion:**
     - Create `temp.txt` with the content: "This file is meant to be deleted." Then, stage and commit.
+        - Created temp.txt in vscode and saved. Staged in github desktop using checkbox then committed with commit button.
     - Delete `temp.txt` from the folder. Commit the deletion in GitHub Desktop.
+        - Deleted file in vscode. Committed the deletion using github desktop - commit button.
 6. **Renaming:**
     - Rename `journey.txt` to `adventure.txt`.
+        - Renamed journey.txt to adventure.txt in vscode.
     - Update its content to: "My journey evolves into an adventure with Git."
+        - Updated file contents in vscode.
     - Stage and commit your changes.
+        - Staged and commited using git desktop check box and commit button.
 7. **Ignoring Files:**
     - Create a `.gitignore` file to ignore all files ending with `.log`. Stage and commit.
+        - Created .gitignore file in vscode with *.log to ignore log files.
     - Test by creating a `test.log` file and check if it's ignored in GitHub Desktop.
+        - Created test.log file in vscode as test, it does not show up.
 8. **Diving Deeper:**
     - Change `adventure.txt` to add "Exploring the depths of Git commands and their powers."
+        - Added text in vscode.
     - View changes in GitHub Desktop.
     - Stage and commit your changes.
+        - Viewed and staged changes in github desktop using check box and commit button.
 9. **History and Restoration**:
     - Browse your repository's commit history in GitHub Desktop to see your progress.
+        - Browsed commit history using history tab in github desktop to see progress.
     - Try to revert `adventure.txt` to an earlier state. Hint: GitHub Desktop does not offer direct revert based on commit ID.
+        - Right clicked on recent update to adventure.txt and pressed revert changes in this commit, then pushed this to origin.
