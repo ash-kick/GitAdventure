@@ -6,11 +6,14 @@
     - Create a new repository named `GitAdventure`.
         - Created new repository by using file - new repository.
     - Find and open the repository folder on your computer.
-        - Opened in finder by clicking file --> open repository in finder.
+        - Opened in finder by clicking repository --> open repository in finder.
 4. **Staging and Committing:**
     - Inside `GitAdventure`, create `journey.txt`. Write: "Starting my Git journey."
+        - Created journey.txt in vscode and added text.
     - Stage `journey.txt`.
+        - Checked box to stage changes in github desktop.
     - Commit your changes.
+        - Added comment and committed using commit to main button.
 5. **Deletion:**
     - Create `temp.txt` with the content: "This file is meant to be deleted." Then, stage and commit.
     - Delete `temp.txt` from the folder. Commit the deletion in GitHub Desktop.
